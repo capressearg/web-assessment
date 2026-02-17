@@ -28,6 +28,10 @@
     display: none;
 }
 
+.explore-menu-list-item:hover img{
+    transform: scale(1.1);
+}
+
 .explore-menu-list-item img{
     width: 7.5vw;
     min-width: 80px;
